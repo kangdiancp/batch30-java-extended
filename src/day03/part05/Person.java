@@ -1,4 +1,4 @@
-package day03.part04;
+package day03.part05;
 
 public abstract class Person {
     private String firstName;
